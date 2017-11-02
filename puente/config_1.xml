@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <dsn>access_atlantica_garantia</dsn>    
+    <server>
+        <direccion>82.194.90.96</direccion>
+        <puerto>3306</puerto>
+        <base_datos>adclick_atlantica_foton</base_datos>
+        <usuario>adclick-admin</usuario>
+        <clave>atlanticapass</clave>
+    </server>
+</root>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <dsn>access_atlantica_garantia</dsn>    
+    <server>
+        <direccion>192.168.50.104</direccion>
+        <puerto>3306</puerto>
+        <base_datos>admin_garantia</base_datos>
+        <usuario>externo</usuario>
+        <clave>adclick</clave>
+    </server>
+</root>
